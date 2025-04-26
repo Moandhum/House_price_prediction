@@ -1,0 +1,2 @@
+TEST_RATIO = 0.2
+SEED = 25
