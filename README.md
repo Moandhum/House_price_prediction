@@ -20,7 +20,7 @@ Ce projet vise à prédire les prix des maisons en utilisant diverses caractéri
 
 1. Clonez ce dépôt :
    ```bash
-   git clone 
+   git clone https://github.com/Moandhum/House_price_prediction.git
    ```
 2. Installez les dépendances :
    ```bash
